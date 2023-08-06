@@ -8,4 +8,4 @@ interest-rates: 0.1
 
 # Timezones can be found at https://www.php.net/manual/en/timezones.php if you don't know what your doing, keep this at "America/Chicago" (OR IT WILL BREAK THE PLUGIN). Players will recieve their daily interest at 12pm in this timezone.
 
-timezone: America/Chicago
+timezone: Asia/Jakarta
